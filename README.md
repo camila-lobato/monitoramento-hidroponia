@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para monitorar, em tempo real, dois elementos esse
 Criar um sistema de baixo custo capaz de detectar falhas como:
 - Parada da bomba de água
 - Entupimento no circuito hidráulico
-- Baixa luminosidade nas plantas
+- Alta luminosidade nas plantas
 
 Com isso, o usuário consegue agir rapidamente para evitar prejuízos no cultivo.
 
@@ -24,7 +24,8 @@ Com isso, o usuário consegue agir rapidamente para evitar prejuízos no cultivo
 - Gauge com a vazão em L/min
 - Indicador de luminosidade
 - Controle automático/manual
-- Notificações de falha ("vazão igual a zero")
+- Notificações de falha
+- Histórico gráfico dos sensores
 
 ## 📁 Estrutura do Repositório
 
