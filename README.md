@@ -30,7 +30,7 @@ Com isso, o usuário consegue agir rapidamente para evitar prejuízos no cultivo
 
 **/horta-codigo/hidroponia.ino** → Código completo do ESP8266
 
-**/documentacao/Relatorio-Projeto.pdf** → Documento final do projeto
+**/documentacao/projetodeIOT.pdf** → Documento final do projeto
 
 **README.md** → Você está aqui
 
